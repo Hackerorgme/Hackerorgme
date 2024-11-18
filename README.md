@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hackerorgme
+- 👋 Hi, I’m Hacker_org 
 - 👀 I’m interested in ... ethical hacking 
-- 🌱 I’m currently learning ...ceh course
+- 🌱 I’m currently learning ...ceh course and cybersecurity 
 - 💞️ I’m looking to collaborate on ...google 
 - 📫 How to reach me ... on YouTube 
 - 😄 Pronouns: ... Hacker_org 
